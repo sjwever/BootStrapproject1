@@ -1,0 +1,6 @@
+.banner {
+    background-image: url("/images/jumbotron.png");
+    width: 100%;
+    background-size: cover;
+}
+
